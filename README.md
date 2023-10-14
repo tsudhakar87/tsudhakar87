@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
-- My Resume: resume
+- My Resume: Thillai Sudhakar - Computer Science - 2027
 -->
