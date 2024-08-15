@@ -7,6 +7,8 @@ Thanks for stopping by! You can get to know me and the work I've been upto here:
     - My code is available upon request. If you would like to view my code, please reach out to me so I can change visibilty settings as needed and contact my professors to let them know of the change.
 - Undergraduate sophomore at Northeastern University
 - Majoring in Computer Science + Biology
+- Proficient in: Java
+- Learning: JavaScript, Python, R, SQL, C++
 - Currently learning: Advanced Learning Algorithms using TensorFlow
 - Favorite project: The Ramen Blog 🍜❣️
 - Quick fun fact: I've petted a dolphin once!
