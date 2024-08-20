@@ -10,7 +10,7 @@ Thanks for stopping by! You can get to know me and the work I've been upto here:
 - Proficient in: Java
 - Learning: JavaScript, Python, R, SQL, C++
 - Currently learning: Advanced Learning Algorithms using TensorFlow
-- Favorite project: The Ramen Blog 🍜❣️
+- Favorite project: The Ramen Blog 🍜
 - Quick fun fact: I've petted a dolphin once!
 
 Have an awesome day :)
