@@ -1,4 +1,10 @@
-### ♡ Hello ♡
+### Thillai Sudhakar
+
+## LinkedIn
+https://www.linkedin.com/in/thillainayaki-sudhakar/ 
+
+## Credly
+https://www.credly.com/users/thillainayaki-sudhakar
 
 Thanks for stopping by! You can get to know me and the work I've been upto here:
 - Pronouns: she/her
