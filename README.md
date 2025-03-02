@@ -1,9 +1,12 @@
-### Thillai Sudhakar
+# Thillai Sudhakar
 
-## LinkedIn
+## see my website here:
+https://tsudhakar87.github.io/tsudhakar/#contact
+
+### linkedin
 https://www.linkedin.com/in/thillainayaki-sudhakar/ 
 
-## Credly
+### credly
 https://www.credly.com/users/thillainayaki-sudhakar
 
 Thanks for stopping by! You can get to know me and the work I've been upto here:
