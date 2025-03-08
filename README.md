@@ -4,11 +4,8 @@
 Link: https://tsudhakar87.github.io/tsudhakar/#contact
 
 ## other links
-### linkedin
-https://www.linkedin.com/in/thillainayaki-sudhakar/ 
-
-### credly
-https://www.credly.com/users/thillainayaki-sudhakar
+**linkedin:** https://www.linkedin.com/in/thillainayaki-sudhakar/ 
+**credly:** https://www.credly.com/users/thillainayaki-sudhakar
 
 ## bio
 Thanks for stopping by! You can get to know me and the work I've been upto here:
