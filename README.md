@@ -4,7 +4,7 @@
 Link: https://tsudhakar87.github.io/tsudhakar/#contact
 
 ## other links
-**linkedin:** https://www.linkedin.com/in/thillainayaki-sudhakar/ 
+**linkedin:** https://www.linkedin.com/in/thillainayaki-sudhakar/ \
 **credly:** https://www.credly.com/users/thillainayaki-sudhakar
 
 ## bio
