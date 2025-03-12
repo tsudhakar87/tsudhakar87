@@ -1,4 +1,4 @@
-# Thillai Sudhakar
+<h1 align = "center">𝐓𝐡𝐢𝐥𝐥𝐚𝐢 𝐒𝐮𝐝𝐡𝐚𝐤𝐚𝐫</h1>
 
 ## see my website here:
 Link: https://tsudhakar87.github.io/tsudhakar/#contact
@@ -22,6 +22,8 @@ Thanks for stopping by! You can get to know me and the work I've been upto here:
 - Quick fun fact: I've petted a dolphin once!
 
 Have an awesome day :)
+
+
 <!--
 **tsudhakar87/tsudhakar87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
