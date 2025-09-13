@@ -1,9 +1,6 @@
 <h1 align = "center">𝐓𝐡𝐢𝐥𝐥𝐚𝐢 𝐒𝐮𝐝𝐡𝐚𝐤𝐚𝐫</h1>
 
-## see my website here:
-Link: https://tsudhakar87.github.io/tsudhakar/#contact
-
-## other links
+## links
 **linkedin:** https://www.linkedin.com/in/thillainayaki-sudhakar/ \
 **credly:** https://www.credly.com/users/thillainayaki-sudhakar
 
