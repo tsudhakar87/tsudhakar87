@@ -1,27 +1,27 @@
-<h1 align = "center">𝐓𝐡𝐢𝐥𝐥𝐚𝐢 𝐒𝐮𝐝𝐡𝐚𝐤𝐚𝐫</h1>
+# Thillai Sudhakar
 
-## links
-**linkedin:** https://www.linkedin.com/in/thillainayaki-sudhakar/ \
-**credly:** https://www.credly.com/users/thillainayaki-sudhakar
-
-## bio
 Thanks for stopping by! You can get to know me and the work I've been upto here:
 - Pronouns: she/her
+- Pronounciation: dill (with a hard "th") - lay (like you're about to say "light")
 - Reach me at: thillainayaki.sudhakar@gmail.com or sudhakar.th@northeastern.edu
-    - My repository for projects done in college coursework is set to private to follow my university's policy on posting code online.
-    - My code is available upon request. If you would like to view my code, please reach out to me so I can change visibilty settings as needed and contact my professors to let them know of the change.
-- Undergraduate sophomore at Northeastern University
-- Majoring in Data Science + Biology
-- Proficient in: Java, Python, R, SQL
-- Learning: JavaScript, TypeScript, React, C++
-- Currently learning: Bioconductor
+    - If you'd like to see other college course projects not publicly available on my profile, please send me an email!
+- Undergraduate junior at Northeastern University
+- Majoring in Computer Science and Biology
+- Proficient in: TypeScript, React, Python, SQL
+- Currently learning: HIP Programming, Go
 - Favorite project: The Ramen Blog 🍜
 - Quick fun fact: I've petted a dolphin once!
 
-Have an awesome day :)
+have an awesome day :)
 
-## see my website here (still under construction):
-Link: https://tsudhakar87.github.io/tsudhakar/#contact
+**see my website here (still under construction):**
+https://tsudhakar.vercel.app/ 
+
+**_other links:_**
+
+
+https://www.linkedin.com/in/thillai-sudhakar/ \
+https://www.credly.com/users/thillai/badges#credly
 
 <!--
 **tsudhakar87/tsudhakar87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
