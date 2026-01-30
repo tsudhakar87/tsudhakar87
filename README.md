@@ -2,7 +2,7 @@
 
 Thanks for stopping by! You can get to know me and the work I've been upto here:
 - Pronouns: she/her
-- Pronounciation: dill (with a hard "th") - lay (like you're about to say "light")
+- Pronounciation: dill (with a hard "th") - lay (like you're about to say "like")
 - Reach me at: thillainayaki.sudhakar@gmail.com or sudhakar.th@northeastern.edu
     - If you'd like to see other college course projects not publicly available on my profile, please send me an email!
 - Undergraduate junior at Northeastern University
